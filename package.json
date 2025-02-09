@@ -1,13 +1,14 @@
 {
   "name": "cra-template-react-code-sandbox",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "My custom React template",
-  "keywords": ["react", "create-react-app", "template"],
+  "keywords": ["cra-template"],
   "main": "template.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/mikdanjey/cra-template-react-code-sandbox.git"
   },
+  "author": "mikdanjey",
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
@@ -34,5 +35,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "engines": {
+    "node": ">=18"
+  }
 }
