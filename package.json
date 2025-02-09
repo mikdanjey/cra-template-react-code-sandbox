@@ -1,6 +1,6 @@
 {
   "name": "cra-template-react-code-sandbox",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "My custom React template",
   "keywords": ["cra-template"],
   "main": "template.json",
